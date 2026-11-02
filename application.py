@@ -1,0 +1,1 @@
+print("Coin counter system")
