@@ -1,1 +1,0 @@
-print("Coin counter system")
